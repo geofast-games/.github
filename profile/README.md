@@ -1,3 +1,3 @@
 # Geofast Games
 
-Email: contact@geofastgames.com
+contact@geofastgames.com
