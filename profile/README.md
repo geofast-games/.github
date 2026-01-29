@@ -1,6 +1,6 @@
 # Geofast Games
 
-Mobile game development studio.
+Mobile game development studio based in Belgium.
 
 ## Product
 
